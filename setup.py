@@ -103,7 +103,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro-23"
+PACKAGE = "libpythonpro"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar a construção de projetos python no curso PythonPro."
 AUTHOR = "Marcondys Santos Bezerra Silva"
