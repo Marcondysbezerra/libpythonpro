@@ -40,13 +40,8 @@
             "version": "==2.8"
         },
         "requests": {
-            "hashes": [
-                "sha256:502a824f31acdacb3a35b6690b5fbf0bc41d63a24a45c4004352b0242707598e",
-                "sha256:7bf2a778576d825600030a110f3c0e3e8edc51dfaafe1c146e39a2027784957b"
-            ],
-            "index": "pypi",
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
-            "version": "==2.21.0"
+            "hashes": [],
+            "version": "==2.31.0"
         },
         "urllib3": {
             "hashes": [
