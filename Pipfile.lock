@@ -188,13 +188,8 @@
             "version": "==4.1.0"
         },
         "pytest-mock": {
-            "hashes": [
-                "sha256:0972719a7263072da3a21c7f4773069bcc7486027d7e8e1f81d98a47e701bc4f",
-                "sha256:31a40f038c22cad32287bb43932054451ff5583ff094bca6f675df2f8bc1a6e9"
-            ],
-            "index": "pypi",
-            "markers": "python_version >= '3.8'",
-            "version": "==3.12.0"
+            "hashes": [],
+            "version": "==3.13.0"
         }
     }
 }
