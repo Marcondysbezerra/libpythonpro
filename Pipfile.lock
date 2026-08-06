@@ -26,7 +26,7 @@
         },
         "chardet": {
             "hashes": [],
-            "version": "==5.2.0"
+            "version": "==7.5.1"
         },
         "idna": {
             "hashes": [],
